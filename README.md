@@ -3,8 +3,7 @@
 
 Different CA modelling the development of sand dunes. 
 
-![2d](./out/24-10-08-14:16:40.mp4)
-![3d](./out/24-10-08-21:43:52.mp4)
+![2d](./out/example.jpg)
 
 
 
