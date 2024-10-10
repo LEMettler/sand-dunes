@@ -5,7 +5,6 @@ Different CA modelling the development of sand dunes.
 
 <!-- ![2d](./out/example.jpg) -->
 ![2d-amin](./out/24-10-10-20:56:26.gif)
-![2d-anim](./out/24-10-10-21:04:51.gif)
 
 
 ## Other Models
