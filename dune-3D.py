@@ -310,7 +310,7 @@ def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     output_dir = os.path.join(script_dir, 'out')
     os.makedirs(output_dir, exist_ok=True)
-    output_file = os.path.join(output_dir, f'{timestamp}.mp4')
+    output_file = os.path.join(output_dir, f'{timestamp}.gif')
 
     def update(frame):
         ax.clear()

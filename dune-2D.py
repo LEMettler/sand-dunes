@@ -303,7 +303,7 @@ def main():
     data_dir = os.path.join(output_dir, 'data')
     os.makedirs(output_dir, exist_ok=True)
     os.makedirs(data_dir, exist_ok=True)
-    output_file = os.path.join(output_dir, f'{timestamp}.mp4')
+    output_file = os.path.join(output_dir, f'{timestamp}.gif')
     data_file = os.path.join(data_dir, f'{timestamp}.gz')
 
     # called for each frame
